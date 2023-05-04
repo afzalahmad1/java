@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListStack",
+            "request": "launch",
+            "mainClass": "ArrayListStack",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStack",
+            "request": "launch",
+            "mainClass": "ArrayStack",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListStack",
+            "request": "launch",
+            "mainClass": "LinkedListStack",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.Heirarchical.Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.Multilevel.Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.Single.Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "MultipleInheritance",
+            "request": "launch",
+            "mainClass": "OOPS.MultipleInheritance",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "constructor(function Object() { [native code] }1)",
+            "request": "launch",
+            "mainClass": "OOPS.constructor",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "overloading",
+            "request": "launch",
+            "mainClass": "OOPS.overloading",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "overriding",
+            "request": "launch",
+            "mainClass": "OOPS.overriding",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "OOPS.polymorphism.Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "balenceParanthesis",
+            "request": "launch",
+            "mainClass": "balenceParanthesis",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "binaryTree",
+            "request": "launch",
+            "mainClass": "binaryTree",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "dailyTemprature",
+            "request": "launch",
+            "mainClass": "dailyTemprature",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "distance",
+            "request": "launch",
+            "mainClass": "distance",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "encapsulation.Main",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "findAllAnagram",
+            "request": "launch",
+            "mainClass": "findAllAnagram",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "matrixMirror",
+            "request": "launch",
+            "mainClass": "matrixMirror",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "maxOccuringCharacter",
+            "request": "launch",
+            "mainClass": "maxOccuringCharacter",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "maxSeq",
+            "request": "launch",
+            "mainClass": "maxSeq",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "rightView",
+            "request": "launch",
+            "mainClass": "rightView",
+            "projectName": "vscode_1f94b169"
+        },
+        {
+            "type": "java",
+            "name": "sumOfPrimeInArray",
+            "request": "launch",
+            "mainClass": "sumOfPrimeInArray",
+            "projectName": "vscode_1f94b169"
+        }
+    ]
+}
